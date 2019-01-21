@@ -13,3 +13,5 @@ function bubbleSort(array) {
   } while (flip == true)
   return sa;
 }
+
+module.exports = bubbleSort
